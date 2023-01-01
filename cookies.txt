@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+inspireyouthmedicine.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1672616889|CXQfLf_Lgvbq
+inspireyouthmedicine.wixsite.com	TRUE	/	FALSE	1999999999	TS012845ea	018d9e98b6234c584deace98151b9efda2df507a9ead5e70563c92f4f23393b681c23d1e038362d2b5a91ab19580942c2491f9fad561036d145e8a76b8b973acf47f89720c
+inspireyouthmedicine.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=42
+inspireyouthmedicine.wixsite.com	TRUE	/	FALSE	1999999999	TS0148e245	018d9e98b6b9b932ed973fb0fae39d5fa9e162b8acad5e70563c92f4f23393b681c23d1e0348d361878af34a22f1bdbbe069b0d9718e7052e4792ec21641c777ce4d102c4c
+inspireyouthmedicine.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	none
+
